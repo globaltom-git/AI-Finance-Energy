@@ -20,7 +20,7 @@ All projects emphasize **business impact**, **robustness**, and **explainability
 | Project | Description | Key Technologies | Business Relevance | Status |
 |---------|-------------|------------------|--------------------|--------|
 | Corporate Credit Risk Modeling | Default prediction on 80k+ Nasdaq/NYSE firm-years. SHAP reveals industry & profitability drivers (majorgroup, EBIT, retained earnings). | LightGBM, Random Forest, SMOTE, SHAP | Due diligence, PE screening, governance (LJ Advisory, Global Equity) | Active – Notebook + SHAP plots |
-| Solar Production Forecasting | Hourly solar output prediction for Europe (France focus). ENTSO-E + Open-Meteo data, time-series features. | XGBoost, Pandas, cyclical encoding, rolling stats | Renewables investment, grid optimisation (inspired by Engie Roemerberg CAPEX/OPEX reductions) | In progress – API integration |
+| Solar Production Forecasting | Hourly solar output prediction for Europe (France focus). ENTSO-E + Open-Meteo data, time-series features. | XGBoost, Pandas, cyclical encoding, rolling stats | Renewables investment, grid optimisation (inspired by Engie Roemerberg CAPEX/OPEX reductions) | Active – API integration |
 | Local LLM Advisory Lab | Secure, privacy-first LLM deployment for financial & strategic advisory (RAG on governance risks, consortium docs). | Ollama/Mistral, LlamaIndex, prompt engineering | RGPD-compliant advisory, risk governance (publication: "Du risque de gouvernance en consortium") | Active – Proof-of-concept |
 
 ## Why This Portfolio?
