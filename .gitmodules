@@ -1,0 +1,3 @@
+[submodule "corporate-credit-risk-modeling"]
+	path = corporate-credit-risk-modeling
+	url = https://github.com/globaltom-git/corporate-credit-risk-modeling.git
